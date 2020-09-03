@@ -16,82 +16,106 @@
                     fit="fill">
                 </el-image>
 
-                <h2>Welcome to Rehab Strategies – “A Trustworthy, Reliable Provider of Therapy Services Since 2007”</h2>
+                <h2>Welcome Home to Brookside Care Strategies</h2>
 
                 <p>
-                    Rehab Strategies is a provider of Physical, Occupational and Speech Therapy in addition to in-house
-                    Wellness Direction. We proudly offer our expertise to Hospitals, Outpatient Centers, Skilled Nursing
-                    Facilities, Assisted and Independent Living Centers. Owned and operated by Therapists, Rehab
-                    Strategies builds and provides therapy teams that are highly motivated, efficient and produce cost-
-                    effective outcomes.
-                </p>    
+                   Brookside Care Strategies is a 42-bed behavioral health nursing facility located in Muncie, Indiana. Owned and operated by <strong>Clinicians</strong>, Brookside Care Strategies’ number one priorities are the health, safety, and happiness of your loved ones. Proficient in Individualized Care Planning, Behavior Management, and an interdisciplinary team approach to care, our staff members are well prepared to welcome your loved one home.
+                </p>
+
+                <p>
+                    At Brookside Care Strategies, we believe interaction and engagement are paramount to the health and well-being of our residents. Residents are offered a multitude of opportunities to engage with our community. Activities, including morning coffee and social time, bingo, bowling, cornhole, and a litany of others, are offered to enhance the home-like feel of our community.    
+                </p>
                 
                 <h2>
-                    A Partnership Built Upon Trust
+                    Our Mission:
                 </h2>
 
                 <p>
-                    When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
-                    oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
-                    We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
-                    clients receive a guaranteed profit from our Therapy Services.
+                    The Brookside Care Strategies Mission is to enrich the lives of loved ones by providing a caring, compassionate, and safe home environment.
                 </p>
             </el-col>
 
             <el-col :span="12">
-                
-
-
-                <h2>Accountability and Performance</h2>
+                <h2>Services</h2>
 
                 <ul>
-                  <li>Higher Standards – Highly ethical clinical practice so you can rest easy.</li>
-                  <li>Oversite – Onsite Management provided by experienced Directors of Rehab.</li>
-                    <li>Results – Improved Clinical Outcomes, Guaranteed Profit, Revenue Enhancement in addition to
-new lines of service.</li>
-                    <li>Medicare Part B Provider</li>
+                  <li>
+                      Comprehensive Care for Clinically Complex Residents
+                  </li>
+                  <li>
+                      Well-Round Clinical Assessments
+                  </li>
+                  <li>
+                      Psychiatric Management
+                  </li>
+                  <li>
+                    Individualized Care Plans
+                  </li>
+                  <li>
+                      Nutritional Management
+
+                  </li>
+                  <li>
+                      Social and Recreational Activities
+
+                  </li>
+                  <li>
+                      Onsite Physical and Occupational Therapy provided by Rehab Strategies
+
+                  </li>
+                  <li>
+                      Onsite Physician Services
+
+                  </li>
+                  <li>
+                      Vision, Dental, Audiology, &amp; Podiatry Services
+
+                  </li>
+                  <li>
+                      Hospice Care
+
+                  </li>
+                  <li>
+                      Hair Dressing Services
+
+                  </li>
+                  
                 </ul>
 
                 <h2>Technology</h2>
 
                 <ul>
-                    <li>CASAMBA - Therapy Software – Practice Management Software</li>
-                    <li>OnusOne – Web Based, Shared-Risk Employee Compensation Program</li>
-                    <li>Equipment – Access to Therapy Equipment provided by ITS [insert link to ITS webpage]</li>
+                    <li>PointClickCare – Documentation Software</li>
+                    <li>PayCor -Payroll Monitoring Software</li>
                     <li>Payroll Based Journal Reporting – Quarterly Reports generated and provided to the facility.</li>
                 </ul>
 
-                <h2>Clinical Programs</h2>
+            <h2>
+                Employment Opprotunities
+            </h2>
+            <p>
+                Brookside Care Strategies hires well-qualified, energetic staff members with a passion for long-term care. As staff members, you will be expected to dedicate your talents to the health and well-being of the residents we serve and the long-term, overall success of the facility.
+            </p>
 
-                <ul>
-                    <li>Rock Steady</li>
-                    <li>The Climb</li>
-                    <li>Wellness Direction</li>
-                </ul>
+            <h2>
+            Open Positions: 
+            </h2>
+            
+            <p>
+                If you are interested in joining our team, submit your application below.
+            </p>
 
-                <h2>Consultation Services</h2>
+            <ul>
+                <li>Nursing-(CNA, LPN, RN)</li>
+                <li>Position A</li>
+                <li>Position B</li>
 
-                <p>Rehab Strategies offers up a comprehensive consultation service package for facilities that wish to set
-up and run their own Rehab department. We provide guidance thru the following phases:</p>
+                <li>Dietary</li>
+                <li>Housekeeping/Laundry</li>
+                <li>Maintenance</li>
+            </ul>
 
-                <ul>
-                    <li>Management Systems and Tools</li>
-                    <li>Efficient Staffing Models</li>
-                    <li>Philosophy/Culture Training</li>
-                    <li>Delivery of Care Training</li>
-                </ul>
-
-                <h2>Work for Rehab Strategies - we offer:</h2>
-
-                <ul>
-                    <li>Clinical Freedom</li>
-                    <li>Professional Growth</li>
-                    <li>Annual CEU Allotment</li>
-                    <li>Generous PTO Accrual</li>
-                    <li>Medical, Dental, Vision, Life and Disability Insurance</li>
-                </ul>
-
-                <el-button icon="el-icon-document" type="primary">Apply To Rehab Strategies Online</el-button>
+                <el-button icon="el-icon-document" type="primary">Apply To Care Strategies Online</el-button>
             </el-col>
           </el-row>
         </el-main>
