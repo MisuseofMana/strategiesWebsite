@@ -3,6 +3,8 @@
     <!-- Site Container -->
     <el-container class="navMenu">
 
+      <side-bar/>
+
       <!--Right Hand Aside -->
       <el-aside width="300px">
             <h2>Explore</h2>
@@ -76,6 +78,7 @@
 <script>
 import '@/assets/styles/global.css'
 
+import SideBar from '@/components/SideBar'
 import RehabStrategies from '@/components/RehabStrategies'
 import StaffingStrategies from '@/components/StaffingStrategies'
 import TreatmentStrategies from '@/components/TreatmentStrategies'
@@ -86,6 +89,7 @@ import StrategiesTeam from '@/components/StrategiesTeam'
 export default {
   name: 'app',
   components: {
+    SideBar,
     RehabStrategies,
     StaffingStrategies,
     TreatmentStrategies,
