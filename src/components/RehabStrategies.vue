@@ -1,132 +1,281 @@
 <template>
 <div>
-     <el-main>
-        <el-row :gutter="40">
-            <el-col :span="24">
-                <h1>Rehab Strategies</h1>
-            </el-col>
-        </el-row>
+    <div class="block flexCenter">
+        <img class="logoConstraint" src="../assets/imgs/logos/rehab.jpg"/>
+        <h2 class="sub-title">“A Trustworthy, Reliable Provider of Therapy Services Since 2007”</h2>
+    </div>
 
-          <el-row :gutter="40">
-            <el-col :span="12">
-                
-                <el-image
-                    :src="rehabUrl"
-                    fit="fill">
-                </el-image>
+    <hr>
 
-                <h2>Welcome to Rehab Strategies – “A Trustworthy, Reliable Provider of Therapy Services Since 2007”</h2>
-
+    <div class="box">
+    <div class="columns is-variable is-8">
+        <div class="column is-two-thirds">
+            <div class="container">
+                <h1 class="title">What is Rehab Strategies?</h1>
                 <p>
                     Rehab Strategies is a provider of Physical, Occupational and Speech Therapy in addition to in-house
                     Wellness Direction. We proudly offer our expertise to Hospitals, Outpatient Centers, Skilled Nursing
                     Facilities, Assisted and Independent Living Centers. Owned and operated by Therapists, Rehab
-                    Strategies builds and provides therapy teams that are highly motivated, efficient and produce cost-
-                    effective outcomes.
-                </p>    
-                
-                <h2>
-                    A Partnership Built Upon Trust
-                </h2>
+                    Strategies builds and provides therapy teams that are highly motivated, efficient and produce cost-effective outcomes.
+                </p>
+            </div>
 
+            <br>
+            
+            <h1 class="title">The Three Therapies</h1>
+            <div class="columns">
+                <div class="column is-narrow">
+                     <button @click="toggleModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-arm-flex-outline"></i></span><span>Physical Therapy</span></button>
+                </div>
+                
+                <div class="column is-narrow">
+                     <button @click="toggleOccModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-coffee-outline"></i></span><span>Occupational Therapy</span></button>
+                </div>
+
+                <div class="column is-narrow">
+                     <button @click="toggleSpeechModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-account-voice"></i></span><span>Speech Therapy</span></button>
+                </div>
+            </div>
+
+            
+
+            <transition name="fade" mode="out-in">
+            <div :class="{ 'is-active' : isActive }" v-if="isActive" key="physical" class="modal">
+                <div @click="toggleModal()" class="modal-background"></div>
+                <div class="modal-content">
+                    <div class="container">
+                        <div class="box">
+                            <div class="content">
+                                <p class="title">
+                                Physical Therapy
+                                </p>
+                                <p class="subtitle">
+                                : therapy for the preservation, enhancement, or restoration of movement and physical function impaired or threatened by disease, injury, or disability that utilizes therapeutic exercise, physical modalities (such as massage and electrotherapy), assistive devices, and patient education and training — called also physiotherapy
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button @click="toggleModal()" class="modal-close is-large" aria-label="close"></button>
+            </div>
+            </transition>
+
+            <transition name="fade" mode="out-in">
+            <div :class="{ 'is-active' : OccIsActive }" v-if="OccIsActive" key="occ" class="modal">
+                <div @click="toggleOccModal()" class="modal-background"></div>
+                <div class="modal-content">
+                    <div class="container">
+                        <div class="box">
+                            <div class="content">
+                                <p class="title">
+                                Occupational Therapy
+                                </p>
+                                <p class="subtitle">
+                                : therapy based on engagement in meaningful activities of daily life (such as self-care skills, education, work, or social interaction) especially to enable or encourage participation in such activities despite impairments or limitations in physical or mental functioning
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button @click="toggleOccModal()" class="modal-close is-large" aria-label="close"></button>
+            </div>
+            </transition>
+            
+            <transition name="fade" mode="out-in">
+            <div :class="{ 'is-active' : SpeechIsActive }" v-if="SpeechIsActive" key="speech" class="modal">
+                <div @click="toggleSpeechModal()" class="modal-background"></div>
+                <div class="modal-content">
+                    <div class="container">
+                        <div class="box">
+                            <div class="content">
+                                <p class="title">
+                                Speech Therapy
+                                </p>
+                                <p class="subtitle">
+                                : therapeutic treatment of impairments and disorders of speech, voice, language, communication, and swallowing
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button @click="toggleSpeechModal()" class="modal-close is-large" aria-label="close"></button>
+            </div>
+            </transition>
+            
+        </div>
+ 
+        <div class="column">
+            <div class="container">
+                <h1 class="title">A Partnership Built Upon Trust</h1>
                 <p>
                     When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
                     oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
                     We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
                     clients receive a guaranteed profit from our Therapy Services.
                 </p>
-            </el-col>
 
-            <el-col :span="12">
-                
+                <br>
 
+                    <a href="/assets/wellnessProgram.pdf" download>
+                        <h1 class="subtitle">Download our Wellness Strategy PDF</h1>
+                        <button class="button is-primary"><span class="icon"><i class="mdi mdi-newspaper-variant-outline"></i></span><span>Download!</span></button>
+                    </a>
 
-                <h2>Accountability and Performance</h2>
+            </div>
+        </div>
+    </div>
+    </div>
 
-                <ul>
-                  <li>Higher Standards – Highly ethical clinical practice so you can rest easy.</li>
-                  <li>Oversite – Onsite Management provided by experienced Directors of Rehab.</li>
-                    <li>Results – Improved Clinical Outcomes, Guaranteed Profit, Revenue Enhancement in addition to
-new lines of service.</li>
-                    <li>Medicare Part B Provider</li>
-                </ul>
+    <div class="box">
+        <div class="columns">
+            <div class="level">
+                <div class="column">
+                    <img src="../assets/imgs/rehab.jpg"/>
+                </div>
+                <div class="column">
+                    <div class="flexCenter content">
+                        <h2 class="title">Work for Rehab Strategies - we offer:</h2>
+                        <ul>
+                            <li>Clinical Freedom</li>
+                            <li>Professional Growth</li>
+                            <li>Annual CEU Allotment</li>
+                            <li>Generous PTO Accrual</li>
+                            <li>Medical, Dental, Vision, Life and Disability Insurance</li>
+                        </ul>
+                        <br>
+                    <button class="button is-primary"><span class="icon"><i class="mdi mdi-file-document-outline"></i></span><span>Apply To Rehab Strategies Online</span></button>
+                    </div>
+                </div>
 
-                <h2>Technology</h2>
+            </div>
+        </div>
+    </div>
 
-                <ul>
-                    <li>CASAMBA - Therapy Software – Practice Management Software</li>
-                    <li>OnusOne – Web Based, Shared-Risk Employee Compensation Program</li>
-                    <li>Equipment – Access to Therapy Equipment provided by ITS [insert link to ITS webpage]</li>
-                    <li>Payroll Based Journal Reporting – Quarterly Reports generated and provided to the facility.</li>
-                </ul>
+    <div class="box">
+    <section class="section">
+            <h1 class="title">Partner with Rehab Strategies</h1>
+            <div class="content">
+            <p>
+                When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
+                oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
+                We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
+                clients receive a guaranteed profit from our Therapy Services.
+            </p>
+            </div>
+    </section>
 
-                <h2>Clinical Programs</h2>
+    <section class="section">
+        <div class="columns">
+            <div class="column">
+                <div class="content">
+                    <h3>Accountability and Performance</h3>
+                    <ul>
+                        <li>Higher Standards – Highly ethical clinical practice so you can rest easy.</li>
+                        <li>Oversite – Onsite Management provided by experienced Directors of Rehab.</li>
+                        <li>Results – Improved Clinical Outcomes, Guaranteed Profit, Revenue Enhancement in addition to new lines of service.</li>
+                        <li>Medicare Part B Provider</li>
+                    </ul>
+                </div>
+            </div>
 
-                <ul>
-                    <li>Rock Steady</li>
-                    <li>The Climb</li>
-                    <li>Wellness Direction</li>
-                </ul>
+                <div class="column">   
+                    <div class="content">
+                        <h3>Technology</h3>
+                        <ul>
+                            <li>CASAMBA - Therapy Software – Practice Management Software</li>
+                            <li>OnusOne – Web Based, Shared-Risk Employee Compensation Program</li>
+                            <li>Equipment – Access to Therapy Equipment provided by ITS [insert link to ITS webpage]</li>
+                            <li>Payroll Based Journal Reporting – Quarterly Reports generated and provided to the facility.</li>
+                        </ul>
+                    </div>
+                </div> 
+            </div>
+    </section>
+    
+    <section class="section">
+        <div class="columns">
+                <div class="column">   
+                    <div class="content">
+                        <h3>Consultation Services</h3>
+                        <p>Rehab Strategies offers up a comprehensive consultation service package for facilities that wish to setup and run their own Rehab department. We provide guidance thru the following phases:</p>
+                        <ul>
+                            <li>Management Systems and Tools</li>
+                            <li>Efficient Staffing Models</li>
+                            <li>Philosophy/Culture Training</li>
+                            <li>Delivery of Care Training</li>
+                        </ul>
+                    </div>
+                </div> 
+            
+            <div class="column">
+                <div class="content">
+                    <h3>Clinical Programs</h3>
+                        <ul>
+                            <li>Rock Steady</li>
+                            <li>The Climb</li>
+                            <li>Wellness Direction</li>
+                        </ul>
+                </div>
+            </div>
+            </div>
+    </section>
+    </div>
 
-                <h2>Consultation Services</h2>
-
-                <p>Rehab Strategies offers up a comprehensive consultation service package for facilities that wish to set
-up and run their own Rehab department. We provide guidance thru the following phases:</p>
-
-                <ul>
-                    <li>Management Systems and Tools</li>
-                    <li>Efficient Staffing Models</li>
-                    <li>Philosophy/Culture Training</li>
-                    <li>Delivery of Care Training</li>
-                </ul>
-
-                <h2>Work for Rehab Strategies - we offer:</h2>
-
-                <ul>
-                    <li>Clinical Freedom</li>
-                    <li>Professional Growth</li>
-                    <li>Annual CEU Allotment</li>
-                    <li>Generous PTO Accrual</li>
-                    <li>Medical, Dental, Vision, Life and Disability Insurance</li>
-                </ul>
-
-                <el-button icon="el-icon-document" type="primary">Apply To Rehab Strategies Online</el-button>
-            </el-col>
-          </el-row>
-        </el-main>
-
-        <el-footer height="300px;">
-          <div>
-              <h2>Find Us</h2>
+    <footer class="footer">
+    <div class="content has-text-centered">
+        <div class="columns">
+            <div class="column">
+                <div class="content">
+                    <h2>Find Us</h2>
               <p>Our Address Here</p>
               <p>Our Address Here</p>
               <p>Our Address Here</p>
-          </div>
-          <div>
-            <h2>Contact Us</h2>
-            <p>Phone Number Here</p>
-            <p>Toll Free Number</p>
-            <p>Fax</p>
-            <p>Email Address</p>
-          </div>
-          <div>
-            <h2>Photography</h2>
-            <ul>
-              <li><span><a href="https://unsplash.com/@heftiba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/s/photos/physical-therapy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></li>
-            </ul>
-          </div>
+                </div>
+            </div>
 
-        </el-footer>
+            <div class="column">
+                <div class="content">
+                    <h2>Contact Us</h2>
+                    <p>Phone Number Here</p>
+                    <p>Toll Free Number</p>
+                    <p>Fax</p>
+                    <p>Email Address</p>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="content">
+                    <h2>Photography</h2>
+                    <a href="https://unsplash.com/@heftiba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/s/photos/physical-therapy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </footer>
         </div>
 </template>
 
 <script>
     export default {
+        name:"RehabStrategies",
         data() {
             return {
-                rehabUrl: require('@/assets/imgs/rehab.jpg')
+                isActive: false,
+                OccIsActive: false,
+                SpeechIsActive: false,
             }
         },
+        methods: {
+            toggleModal() {
+                this.isActive = !this.isActive
+            },
+            toggleOccModal() {
+                this.OccIsActive = !this.OccIsActive
+            },
+            toggleSpeechModal() {
+                this.SpeechIsActive = !this.SpeechIsActive
+            },
+        }
     }
 </script>
 

@@ -1,114 +1,80 @@
 <template>
   <div id="app">
-    <!-- Site Container -->
-    <el-container class="navMenu">
+    <div class="columns is-variable is-4">
+      <div class="column  fixedcolumn is-3-desktop is-hidden-touch">
+          <div class="container is-horizotal-center">
+              <img src="./assets/imgs/logos/theStrat.png"/>
+          </div>
+          <br>
+          <div class="block">
+            <aside class="menu">
+              <ul class="menu-list">
+                <li><router-link to="/" exact><span class="icon"><i class="mdi mdi-newspaper-variant-outline"></i></span>The Strategies</router-link></li>
+                <li><router-link to="/RehabStrategies"><span class="icon"><i class="mdi mdi-handshake-outline"></i></span>Rehab Strategies</router-link></li>
+                <li><router-link to="/StaffingStrategies"><span class="icon"><i class="mdi mdi-account-group"></i></span>Staffing Strategies</router-link></li>
+                <li><router-link to="/CareStrategies"><span class="icon"><i class="mdi mdi-bottle-tonic-plus-outline"></i></span>Care Strategies</router-link></li>
+                <li><router-link to="/InnovativeTreatmentStrategies"><span class="icon"><i class="mdi mdi-desktop-classic"></i></span>Innovative Treatment Strategies</router-link></li>
+                <li><router-link to="/OurTeam"><span class="icon"><i class="mdi mdi-briefcase-outline"></i></span>Our Team</router-link></li>
+              </ul>
+            </aside>
+          </div>
 
-      <!--Right Hand Aside -->
-      <el-aside width="300px">
-            <h2>Explore</h2>
-            <el-divider></el-divider>
-            <el-menu 
-            :default-active="activeIndex" 
-            mode="vertical" 
-            @select="handleSelect"
-            background-color="#497093"
-            text-color="white"
-            active-text-color="#ffaa22"
-            >
-              <el-menu-item index="1">
-                <i class="el-icon-first-aid-kit"></i>
-                Rehab Strategies
-              </el-menu-item>
-              
-              <el-menu-item index="2">
-                <i class="el-icon-s-custom"></i>
-                Staffing Strategies
-              </el-menu-item>
+      </div>
 
-              <el-menu-item index="3">
-                <i class="el-icon-star-off"></i>
-                Innovative Treatment Strategies
-              </el-menu-item>
-
-              <el-menu-item index="4">
-                <i class="el-icon-box"></i>
-                Innovative Treatment Supplies
-              </el-menu-item>
-              <el-menu-item index="5">
-                <i class="el-icon-guide"></i>
-                Innovative Care Strategies
-              </el-menu-item>
-              <el-menu-item index="6">
-                <i class="el-icon-user"></i>
-                The Strategies Team
-              </el-menu-item>
-            </el-menu>
-          </el-aside>
-
-    <el-container class="siteWrap">
-        <!-- Header -->
-        <el-header height="150px">
-          <!-- Logo -->
-          <el-image
-            style="height:90px;"
-            :src="url"
-            fit="scale-down">
-          </el-image>
-        </el-header>
-
-        <!-- Main Content -->
-        <transition name="fade" mode="out-in">
-          <rehab-strategies key="rehab" v-if="activeIndex == '1'"/>  
-          <staffing-strategies key="staffing" v-else-if="activeIndex == '2'"/>
-          <treatment-strategies key="treatment" v-else-if="activeIndex == '3'"/>
-          <treatment-supplies key="supplies" v-else-if="activeIndex == '4'"/>
-          <care-strategies key="care" v-else-if="activeIndex == '5'"/>
-          <strategies-team key="team" v-else-if="activeIndex == '6'"/>
-        </transition>
-    </el-container>
-
-      
-    </el-container>
-
+      <div class="column is-9-desktop is-offset-3-desktop">  
+          <nav-bar class="is-hidden-desktop"/>
+          <transition name="fade" mode="out-in">
+            <router-view></router-view>
+          </transition>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 import '@/assets/styles/global.css'
-
-import RehabStrategies from '@/components/RehabStrategies'
-import StaffingStrategies from '@/components/StaffingStrategies'
-import TreatmentStrategies from '@/components/TreatmentStrategies'
-import TreatmentSupplies from '@/components/TreatmentSupplies'
-import CareStrategies from '@/components/CareStrategies'
-import StrategiesTeam from '@/components/StrategiesTeam'
+import NavBar from './components/NavBar'
 
 export default {
   name: 'app',
   components: {
-    RehabStrategies,
-    StaffingStrategies,
-    TreatmentStrategies,
-    TreatmentSupplies,
-    CareStrategies,
-    StrategiesTeam
+    NavBar,
   },
-  data() {
-    return {
-      activeIndex: '1',
-      url: require('@/assets/imgs/logo.png'),
-      whoUrl: require('@/assets/imgs/city.jpg')
+  methods: { 
+    scrollToTop() {
+        window.scrollTo(0,0);
     }
-  },
-   methods: {
-      handleSelect(key) {
-        this.activeIndex = key;
-      }
-    }
+  }
 }
 </script>
 
 <style>
- 
+#app {
+  padding:20px 20px;
+}
 
+.posRelative {
+  position:relative;
+  text-align:center;
+}
+
+.border-left {
+  margin-left:20px;
+}
+
+.fixedcolumn {
+  position:fixed;
+}
+
+.logoConstraint {
+  max-height:170px;
+  margin:0 0 30px 0;
+}
+
+.toTop {
+  background:#008080;
+  border-radius:99999px;
+  width:50px;
+  height:50px;
+}
 </style>
