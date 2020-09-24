@@ -1,82 +1,37 @@
-#app {
-    min-width:800px;
-    font-family:Arial, Helvetica, sans-serif;
-  }
-
-  p {
-      font-size:15px;
-  }
-
-  h1 {
-    font-size:30px;
-    margin-block-start: .3em;
-    margin-block-end: .3em;
-  }
-
-  h2 {
-    font-size:20px;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-  }
-
-  .el-menu {
-    font-family:Arial, Helvetica, sans-serif;
-    border:none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-  }
-
-  .el-menu-item {
-    text-align:left;
-    border: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-  }
-
-  .el-row {
-    margin-bottom: 20px;
-}
-
-.el-row:last-child {
-    margin-bottom: 0;
-  }
-
-  .el-aside {
-    text-align:center;
-    background-color:#497093;
-    padding:10px;
-    margin:0 10px 0 0px;
-    height:100vh;
-    position:fixed;
-    top:0;
-    left:0;
-  }
-
-  .siteWrap {
-    margin-left:300px;
-  }
-
-  .el-aside p, .el-aside h2 {
-    color:white;
-  }
-
-  .el-header {
-    display:flex;
-    justify-content:center;
-    align-items:center;
-  }
-
-  .el-footer {
-    background:#eee;
-    margin:20px 0 0 0;
-    display:flex;
-    justify-content:space-around;
-    align-items:flex-start;
-  }
-
-  .fade-enter-active, .fade-leave-active {
-  transition: opacity .5s;
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 5s;
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
+}
+
+.text-center {
+  text-align:center;
+}
+
+.flexCenter {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.is-horizontal-center {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items:center;
+}
+
+a.navbar-item.is-active {
+  color:#fff !important;
+}
+
+a.navbar-item:hover {
+  color:#fff !important;
+}
+
+.icon-spacer {
+  margin-right:10px;
+  display:inline-block;
 }
