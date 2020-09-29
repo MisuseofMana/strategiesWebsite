@@ -226,20 +226,16 @@
         <div class="columns">
             <div class="column">
                 <div class="content">
-                    <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
+                    <h2>Call Us</h2>
+              <p>Phone: (317) 887-1600</p>
+              <p>Toll Free: 1 (877) 60-REHAB</p>
                 </div>
             </div>
 
             <div class="column">
                 <div class="content">
-                    <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
+                    <h2>Email Us</h2>
+                    <p><a href="mailto:info@rehabstrategies.net">info@rehabstrategies.net</a></p>
                 </div>
             </div>
 

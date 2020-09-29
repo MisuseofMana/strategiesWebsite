@@ -71,21 +71,14 @@
     <div class="content has-text-centered">
         <div class="columns">
             <div class="column">
-                <div class="content">
-                    <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="content">
-                    <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
+                <div class="content flexCenter">
+                    <h1 class="title">Contact Lauren Cram</h1>
+                    <figure class="image is-96x96">
+                        <img class="is-rounded" src="../assets/imgs/staff/lauren.png"/>
+                    </figure>
+                    <h2 class="subtitle">Staffing Coordinator</h2>
+              <p>(317) 412-6058</p>
+              <p><a href="mailto:lcram@staffingstrategies.net">lcram@staffingstrategies.net</a></p>
                 </div>
             </div>
 

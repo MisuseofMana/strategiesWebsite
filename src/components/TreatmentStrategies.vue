@@ -72,7 +72,7 @@
     <div class="columns is-variable is-4">
         <div class="column">
             <div class="content flexCenter">
-                <iframe src="https://player.vimeo.com/video/278169695?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                <iframe class="videoPlayer" src="https://player.vimeo.com/video/278169695?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     <p><a href="https://vimeo.com/278169695">MR Cube Testimonials</a> from <a href="https://vimeo.com/user68925006">Anvil &amp; Hammer Agency</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
         </div>
@@ -103,7 +103,7 @@
         </div>
         <div class="column">
             <div class="content flexCenter">
-                <iframe src="https://player.vimeo.com/video/278154734?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                <iframe class="videoPlayer" src="https://player.vimeo.com/video/278154734?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 <p><a href="https://vimeo.com/278154734">Monitored Rehab Cube Product Demonstration</a> from <a href="https://vimeo.com/user68925006">Anvil &amp; Hammer Agency</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             </div>
         </div>
@@ -115,20 +115,10 @@
         <div class="columns">
             <div class="column">
                 <div class="content">
-                    <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="content">
-                    <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
+                    <h2>Get In Touch</h2>
+              <p>(317) 887-1600</p>
+              <p>Toll Free: 1 (877) 60-REHAB</p>
+              <p><a href="info@innovativetreatment.net">info@innovativetreatment.net</a></p>
                 </div>
             </div>
 
@@ -145,16 +135,16 @@
 
 <script>
     export default {
-        data() {
-            return {
-                treatmentUrl: require('@/assets/imgs/treatment.jpg')
-            }
-        },
     }
 </script>
 
 <style scoped>
 .videos .el-col {
     text-align:center;
+}
+
+.videoPlayer {
+    width:100%;
+    min-height:300px;
 }
 </style>
