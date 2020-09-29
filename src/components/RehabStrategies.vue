@@ -1,6 +1,6 @@
 <template>
 <div>
-    <div class="block flexCenter">
+    <div class="block flexCenter has-text-centered">
         <img class="logoConstraint" src="../assets/imgs/logos/rehab.jpg"/>
         <h2 class="sub-title">“A Trustworthy, Reliable Provider of Therapy Services Since 2007”</h2>
     </div>
@@ -18,26 +18,19 @@
                     Facilities, Assisted and Independent Living Centers. Owned and operated by Therapists, Rehab
                     Strategies builds and provides therapy teams that are highly motivated, efficient and produce cost-effective outcomes.
                 </p>
+                
+                <br>
+
+                <h1 class="title">A Partnership Built Upon Trust</h1>
+                <p>
+                    When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
+                    oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
+                    We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
+                    clients receive a guaranteed profit from our Therapy Services.
+                </p>
             </div>
 
             <br>
-            
-            <h1 class="title">The Three Therapies</h1>
-            <div class="columns">
-                <div class="column is-narrow">
-                     <button @click="toggleModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-arm-flex-outline"></i></span><span>Physical Therapy</span></button>
-                </div>
-                
-                <div class="column is-narrow">
-                     <button @click="toggleOccModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-coffee-outline"></i></span><span>Occupational Therapy</span></button>
-                </div>
-
-                <div class="column is-narrow">
-                     <button @click="toggleSpeechModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-account-voice"></i></span><span>Speech Therapy</span></button>
-                </div>
-            </div>
-
-            
 
             <transition name="fade" mode="out-in">
             <div :class="{ 'is-active' : isActive }" v-if="isActive" key="physical" class="modal">
@@ -105,22 +98,26 @@
         </div>
  
         <div class="column">
-            <div class="container">
-                <h1 class="title">A Partnership Built Upon Trust</h1>
-                <p>
-                    When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
-                    oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
-                    We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
-                    clients receive a guaranteed profit from our Therapy Services.
-                </p>
+            <div class="container flexCenter has-text-centered">
+                <h1 class="title">The Three Therapies</h1>
+            <div class="columns flexCenter">
+                     <button @click="toggleModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-arm-flex-outline"></i></span><span>Physical Therapy</span></button>
+                        <br>
+                     <button @click="toggleOccModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-coffee-outline"></i></span><span>Occupational Therapy</span></button>
+                        <br>
+                     <button @click="toggleSpeechModal()" class="button is-primary"><span class="icon"><i class="mdi mdi-account-voice"></i></span><span>Speech Therapy</span></button>
 
                 <br>
+                <hr>
 
-                    <a href="/assets/wellnessProgram.pdf" download>
-                        <h1 class="subtitle">Download our Wellness Strategy PDF</h1>
+                        <a href="/assets/wellnessProgram.pdf" download>
+                        <div class="container flexCenter">
+                        <h1 class="title has-text-centered">Download our Wellness Strategy PDF</h1>
                         <button class="button is-primary"><span class="icon"><i class="mdi mdi-newspaper-variant-outline"></i></span><span>Download!</span></button>
-                    </a>
-
+                        </div>
+                        </a>
+    <br>
+            </div>
             </div>
         </div>
     </div>
@@ -143,7 +140,7 @@
                             <li>Medical, Dental, Vision, Life and Disability Insurance</li>
                         </ul>
                         <br>
-                    <button class="button is-primary"><span class="icon"><i class="mdi mdi-file-document-outline"></i></span><span>Apply To Rehab Strategies Online</span></button>
+                    <router-link to="/RehabForm"><button class="button is-primary"><span class="icon"><i class="mdi mdi-file-document-outline"></i></span><span>Apply To Rehab Strategies Online</span></button></router-link>
                     </div>
                 </div>
 
@@ -276,5 +273,9 @@
 </script>
 
 <style scoped>
-
+hr {
+    color:grey;
+    border: solid 1px lightgrey;
+    width:100%;
+}
 </style>
