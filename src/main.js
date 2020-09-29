@@ -16,6 +16,7 @@ import Staff from './components/StaffingStrategies.vue'
 import Care from './components/CareStrategies.vue'
 import Its from './components/TreatmentStrategies.vue'
 import Team from './components/StrategiesTeam.vue'
+import RehabForm from './components/RehabForm.vue'
 
 const Strat = Strategies;
 const Staffing = Staff;
@@ -23,6 +24,7 @@ const RehabStrat = Rehab;
 const CareStrat = Care;
 const Treatment = Its;
 const OurTeam = Team;
+const FormForRehab = RehabForm
 
 const routes = [
   {path: '/', component: Strat},
@@ -31,6 +33,7 @@ const routes = [
   {path: '/CareStrategies', component: CareStrat},
   {path: '/InnovativeTreatmentStrategies', component: Treatment},
   {path: '/OurTeam', component: OurTeam},
+  {path: '/RehabForm', component: FormForRehab},
 
 ]
 
