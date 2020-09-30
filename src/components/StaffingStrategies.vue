@@ -15,8 +15,6 @@
                     <p>
                         Staffing Strategies was born out of a need for supplemental staff for our sister company, Rehab Strategies. We first established a solid therapy/nursing pool with a reputation for quality and reliability. We then began selectively offering our services to other facilities with the same high-quality standards. Our promise to our client is that we would never place a therapist or nurse in their facility that we would not place in our own Rehab Strategies or Care Strategies facilities.                    
                     </p>
-                    
-                
                 </div>
             </div>
         </div>
@@ -40,7 +38,7 @@
 
                       <h2 class="subtitle">Are You Looking for a Hero?</h2>
 
-                        <button class="button is-primary"><span class="icon"><i class="mdi mdi-calendar"></i></span><span>Schedule with our Staffing Coordinator</span></button>
+                        <a href="mailto:lcram@staffingstrategies.net"><button class="button is-primary"><span class="icon"><i class="mdi mdi-calendar"></i></span><span>Contact our Staffing Coordinator</span></button></a>
 
                         <br><br>
 
