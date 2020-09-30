@@ -115,7 +115,7 @@
             </div>
 
             <div class="column">
-                <img src="../assets/imgs/treatment.jpg"/>
+                <img src="../assets/imgs/cube.jpg"/>
             </div>
             </div>
         </div>
@@ -153,8 +153,6 @@
                     <span><a href="https://unsplash.com/@samsonyyc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Samson</a> on <a href="https://unsplash.com/@samsonyyc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
                     <br>
                     <a href="https://unsplash.com/@jameshosejr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">James Hose Jr</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>        
-                    <br>
-                    <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/physical-therapy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
                 </div>
             </div>
         </div>

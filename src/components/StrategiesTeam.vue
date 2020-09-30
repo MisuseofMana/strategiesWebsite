@@ -21,10 +21,7 @@
             <div class="column">
                 <div class="content">
                     <p>
-                        Ron Cram, PT has over 30 years of experience in the rehabilitation field working in virtually every setting before focusing his career and businesses in LTC and the geriatric population. He has practiced hands on in over 50 facilities and in 5 different states. As a business owner he understands not only the clinical components that affect a facility but also the legislative, regulatory and reimbursement issues affecting the healthcare industry.
-                    </p>
-                    <p>
-                        With 30 years of hands on clinical work Ron has trained over 500 therapist dealing with clinical, regulatory and reimbursement issues in rehabilitation. He is the CEO and owner of Rehab Strategies, a contract management company providing Physical, Occupational and Speech Therapy to long term care facilities, CEO and owner of Staffing Strategies, a temporary rehabilitation professional staffing company, and CEO and owner of Innovative Treatment Strategies, a high tech rehabilitation equipment company.
+                        With over 30 years of hands-on clinical experience in the rehabilitation field, Ron has an extensive understanding of the healthcare continuum and has worked in virtually every type of rehab setting. He has practiced as a physical therapist in over 50 facilities spanning 5 states. Ron has focused the majority of his career and the entirety of his businesses on Long-Term Care treating the geriatric population. As the CEO and owner of Rehab Strategies, Staffing Strategies, Innovative Treatment Strategies, and Care Strategies, Ron understands not only the clinical components affecting a facility but has trained over 500 therapists regarding the legislative, regulatory, and reimbursement issues affecting healthcare as an industry.
                     </p>
                 </div>
             </div>
@@ -165,7 +162,7 @@
                     <br>
                     <h1 class="title">Lauren Cram</h1>
                     <h2 class="subtitle">Staffing Coordinator</h2>
-                    <h2 class="subtitle">@ Care Strategies</h2>
+                    <h2 class="subtitle">@ Care Strategies, Staffing Strategies</h2>
                     </div>
                 </div>
 

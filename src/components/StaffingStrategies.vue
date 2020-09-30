@@ -15,8 +15,6 @@
                     <p>
                         Staffing Strategies was born out of a need for supplemental staff for our sister company, Rehab Strategies. We first established a solid therapy/nursing pool with a reputation for quality and reliability. We then began selectively offering our services to other facilities with the same high-quality standards. Our promise to our client is that we would never place a therapist or nurse in their facility that we would not place in our own Rehab Strategies or Care Strategies facilities.                    
                     </p>
-                    
-                
                 </div>
             </div>
         </div>
@@ -40,7 +38,7 @@
 
                       <h2 class="subtitle">Are You Looking for a Hero?</h2>
 
-                        <button class="button is-primary"><span class="icon"><i class="mdi mdi-calendar"></i></span><span>Schedule with our Staffing Coordinator</span></button>
+                        <a href="mailto:lcram@staffingstrategies.net"><button class="button is-primary"><span class="icon"><i class="mdi mdi-calendar"></i></span><span>Contact our Staffing Coordinator</span></button></a>
 
                         <br><br>
 
@@ -71,21 +69,14 @@
     <div class="content has-text-centered">
         <div class="columns">
             <div class="column">
-                <div class="content">
-                    <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="content">
-                    <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
+                <div class="content flexCenter">
+                    <h1 class="title">Contact Lauren Cram</h1>
+                    <figure class="image is-96x96">
+                        <img class="is-rounded" src="../assets/imgs/staff/lauren.png"/>
+                    </figure>
+                    <h2 class="subtitle">Staffing Coordinator</h2>
+              <p>(317) 412-6058</p>
+              <p><a href="mailto:lcram@staffingstrategies.net">lcram@staffingstrategies.net</a></p>
                 </div>
             </div>
 

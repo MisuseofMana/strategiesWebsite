@@ -46,16 +46,14 @@
                             Brookside Care Strategies hires well-qualified, energetic staff members with a passion for long-term care. As staff members, you will be expected to dedicate your talents to the health and well-being of the residents we serve and the long-term, overall success of the facility.
                         </p>
                                     <h3>
-            Open Positions: 
+            We Hire: 
             </h3>
                         <ul>
-                <li>Nursing-(CNA, LPN, RN)</li>
-                <li>Position A</li>
-                <li>Position B</li>
-
+                <li>Nursing (RN's, CNA's, LPN's, QMA's)</li>
                 <li>Dietary</li>
                 <li>Housekeeping/Laundry</li>
                 <li>Maintenance</li>
+                <li>Social Services/Recreational Activities</li>
             </ul>
             <br>
 
@@ -138,19 +136,16 @@
             <div class="column">
                 <div class="content">
                     <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
+              <p>505 N. Gavin St</p>
+              <p>Muncie, IN 47303</p>
                 </div>
             </div>
 
             <div class="column">
                 <div class="content">
                     <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
+                    <p>(765) 289-1915</p>
+                    <p><a href="info@brooksidecs.net">info@brooksidecs.net</a></p>
                 </div>
             </div>
 
