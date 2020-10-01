@@ -181,7 +181,7 @@
                         <ul>
                             <li>CASAMBA - Therapy Software – Practice Management Software</li>
                             <li>OnusOne – Web Based, Shared-Risk Employee Compensation Program</li>
-                            <li>Equipment – Access to Therapy Equipment provided by ITS [insert link to ITS webpage]</li>
+                            <li>Equipment – Access to Therapy Equipment provided by <router-link class="underline" to="/TreatmentStrategies"> Innovative Treatment Strategies (ITS)</router-link></li>
                             <li>Payroll Based Journal Reporting – Quarterly Reports generated and provided to the facility.</li>
                         </ul>
                     </div>
@@ -251,6 +251,15 @@
 <script>
     export default {
         name:"RehabStrategies",
+        metaInfo: {
+            title: "Rehab Strategies",
+            meta: [
+                { property: 'og:title', content: "Rehab Strategies" },
+                { property: 'og:url', content: "http://www.thestrategies.com/#/RehabStrategies" },
+                { property: 'og:image', content: "../assets/imgs/logos/rehab.jpg" },
+                { property: 'og:description', content: "Rehab Strategies is a provider of Physical, Occupational and Speech Therapy in addition to in-house Wellness Direction in Indiana." },
+            ]
+        },
         data() {
             return {
                 isActive: false,
@@ -277,5 +286,9 @@ hr {
     color:grey;
     border: solid 1px lightgrey;
     width:100%;
+}
+
+.underline {
+    text-decoration:underline ;
 }
 </style>

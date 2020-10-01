@@ -135,6 +135,16 @@
 
 <script>
     export default {
+        name:"InnovativeTreatmentStrategies",
+        metaInfo: {
+            title: "Innovative Treatment Strategies",
+             meta: [
+                { property: 'og:title', content: "Innovative Treatment Strategies" },
+                { property: 'og:url', content: "http://www.thestrategies.com/#/InnovativeTreatmentStrategies" },
+                { property: 'og:image', content: "../assets/imgs/logos/ITSlogo.jpg" },
+                { property: 'og:description', content: "Innovative Treatment Strategies (ITS) is a leading provider of cutting edge, state-of-the-art rehabilitation products in the sub-acute and long-term care provider areas." },
+            ]
+    },
     }
 </script>
 

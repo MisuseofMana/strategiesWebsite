@@ -4,11 +4,13 @@ import Buefy from 'buefy'
 import 'buefy/dist/buefy.css'
 import '@mdi/font/css/materialdesignicons.css'
 import VueRouter from 'vue-router'
+import VueMeta from 'vue-meta'
 
 require('./assets/styles/mysass.scss');
 
 Vue.use(Buefy)
 Vue.use(VueRouter)
+Vue.use(VueMeta)
 
 import Strategies from './components/TheStrategies.vue'
 import Rehab from './components/RehabStrategies.vue'

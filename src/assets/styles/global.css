@@ -35,3 +35,11 @@ a.navbar-item:hover {
   margin-right:10px;
   display:inline-block;
 }
+
+.navbar-link.is-active {
+  color: #fff !important;
+}
+
+.navbar-link:hover {
+  color:#fff !important;
+}

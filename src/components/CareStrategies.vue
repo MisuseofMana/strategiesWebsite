@@ -160,52 +160,19 @@
 </div>
 </template>
 
-<!--
-  
-
-     
-            <p>
-            </p>
-
-            
-            
-            
-
-            
-
-                <el-button icon="el-icon-document" type="primary">Apply To Care Strategies Online</el-button>
-            </el-col>
-          </el-row>
-        </el-main>
-
-        <el-footer height="300px;">
-          <div>
-              <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-          </div>
-          <div>
-            <h2>Contact Us</h2>
-            <p>Phone Number Here</p>
-            <p>Toll Free Number</p>
-            <p>Fax</p>
-            <p>Email Address</p>
-          </div>
-          <div>
-            <h2>Photography</h2>
-            <ul>
-              <li><span></span></li>
-            </ul>
-          </div>
-
-        </el-footer> -->
-
-
 <script>
-    export default {
-      name:"CareStrategies"
-    }
+export default {
+    name:"CareStrategies",
+    metaInfo: {
+        title: "Care Strategies",
+         meta: [
+            { property: 'og:title', content: "Care Strategies" },
+            { property: 'og:url', content: "http://www.thestrategies.com/#/CareStrategies" },
+            { property: 'og:image', content: "../assets/imgs/logos/care.png" },
+            { property: 'og:description', content: "We hire staff for our nursing facility in Muncie, Indiana." },
+        ]
+    },
+}
 </script>
 
 <style scoped>

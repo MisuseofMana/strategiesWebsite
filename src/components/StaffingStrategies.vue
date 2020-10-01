@@ -95,6 +95,16 @@
 
 <script>
     export default {
+        name: 'StaffingStrategies',
+        metaInfo: {
+            title: "Staffing Strategies",
+            meta: [
+                { property: 'og:title', content: "Staffing Strategies" },
+                { property: 'og:url', content: "http://www.thestrategies.com/#/StaffingStrategies" },
+                { property: 'og:image', content: "../assets/imgs/logos/staffing.png" },
+                { property: 'og:description', content: "Staffing Strategies provides a solid therapy/nursing pool with a reputation for quality and reliability when you need staffing assistance." },
+            ]
+        },
         data() {
             return {
               cityUrl: require('@/assets/imgs/city.jpg')

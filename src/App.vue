@@ -49,6 +49,10 @@ import NavBar from './components/NavBar'
 
 export default {
   name: 'app',
+  metaInfo: {
+    title: 'The Strategies',
+    titleTemplate: null,
+  },
   components: {
     NavBar,
   },

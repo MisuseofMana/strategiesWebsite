@@ -213,9 +213,15 @@
 
 <script>
     export default {
-        data() {
-            return {
-            }
+        name: "OurTeam",
+        metaInfo: {
+            title: "The Strategies Team",
+            meta: [
+                { property: 'og:title', content: "Our Team" },
+                { property: 'og:url', content: "http://www.thestrategies.com/#/OurTeam" },
+                // { property: 'og:image', content: "../assets/imgs/logos/staffing.png" },
+                { property: 'og:description', content: "Meet The Strategies team, and put a face to their names." },
+            ]
         },
     }
 </script>

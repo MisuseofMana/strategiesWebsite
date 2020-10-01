@@ -135,10 +135,10 @@
             <div class="column">
                 <div class="content has-text-centered">
                     <h2 class="is-size-4">Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
+                    <p>317-887-1600</p>
+                    <p>1-877-60-REHAB</p>
                     <p>Fax</p>
-                    <p>Email Address</p>
+                    <p><a href="mailto:info@thestrategies.net">info@thestrategies.net</a></p>
                 </div>
             </div>
 
@@ -162,7 +162,16 @@
 
 <script>
     export default {
-        name:"RehabStrategies"
+        name:"TheStrategies",
+        metaInfo: {
+            title: "The Strategies",
+            meta: [
+                { property: 'og:title', content: "The Strategies" },
+                { property: 'og:url', content: "http://www.thestrategies.com/" },
+                { property: 'og:image', content: "../assets/imgs/logos/theStrat.png" },
+                { property: 'og:description', content: "The Strategies is the culmination of over 30 years of healthcare experience, strategic initiatives to identify necessary gap coverage, and fast-paced entrepreneurial expansion." },
+            ]
+        },
     }
 </script>
 
