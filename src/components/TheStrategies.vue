@@ -123,14 +123,6 @@
 
     <footer class="footer">
         <div class="columns">
-            <div class="column">
-                <div class="content has-text-centered">
-                <h2 class="is-size-4">Find Us</h2>
-                <p>Our Address Here</p>
-                <p>Our Address Here</p>
-                <p>Our Address Here</p>
-                </div>
-            </div>
 
             <div class="column">
                 <div class="content has-text-centered">

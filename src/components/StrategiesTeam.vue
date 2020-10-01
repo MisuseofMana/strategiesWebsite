@@ -176,38 +176,6 @@
             </div>
         </div>
     </div>
-
-    <footer class="footer">
-    <div class="content has-text-centered">
-        <div class="columns">
-            <div class="column">
-                <div class="content">
-                    <h2>Find Us</h2>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-              <p>Our Address Here</p>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="content">
-                    <h2>Contact Us</h2>
-                    <p>Phone Number Here</p>
-                    <p>Toll Free Number</p>
-                    <p>Fax</p>
-                    <p>Email Address</p>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="content">
-                    <h2>Photography</h2>
-                    <p>No attributions</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    </footer>
 </div>
 </template>
 
