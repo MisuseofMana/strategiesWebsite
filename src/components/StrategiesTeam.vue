@@ -60,23 +60,20 @@
                     <div class="container is-horizontal-center">
 
                     <figure class="image is-128x128">
-                        <img class="is-rounded" src="../assets/imgs/staff/caitlin.png"/>
+                        <img class="is-rounded" src="../assets/imgs/staff/jeff.png"/>
                     </figure>
                     <br>
-                    <h1 class="title">Caitlin Barry</h1>
+                    <h1 class="title">Jeff Huffman</h1>
 
-                    <h2 class="subtitle">Executive Administrative Assistant</h2>
+                    <h2 class="subtitle">Chief Development Officer</h2>
                     <h2 class="subtitle">@ Care Strategies, Staffing Strategies, and Rehab Strategies</h2>
-                    <h3 class="subtitle"></h3>
-                    <h3 class="subtitle"></h3>
                     </div>
                 </div>
 
                 <div class="column">
                     <div class="content">
                         <p>
-                            Caitlin joined the team in November 2018 bringing with her extensive knowledge of healthcare operations and 5 years of hospital management experience and physician relations. She graduated from Saint Louis University with a B.A. in psychology in 2010, received her LEAN Practitioner certification through Purdue University in 2018, and is currently working towards her Master’s in Business Administration with an additional concentration in Healthcare Management from Purdue University Global. With over 5 years’ experience in compliance, Caitlin serves as the Chief Compliance Officer for Brookside Care Strategies. Caitlin manages special projects like the configuration, implementation, and training of the electronic health record utilized by Brookside Care Strategies.
-                        </p>
+With over 30 years of sales, marketing, government affairs and long term care experience, Jeff has an extensive understanding of the healthcare continuum and has focused on growth in organizations and operating improvements in multiple states. Jeff has focused his career on Long-Term Care and all aspects of Senior Housing. As the Chief Development Officer at The Strategies, Jeff understands growth, operation excellence,  legislative, regulatory, and reimbursement issues affecting healthcare as an industry and works with our partners to improve performance, increase census and improve the bottom line.                        </p>
                     </div>
                 </div>
             </div>
