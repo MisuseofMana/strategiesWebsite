@@ -57,7 +57,7 @@
             </ul>
             <br>
 
-                    <button class="button is-primary"><span class="icon"><i class="mdi mdi-file-document-outline"></i></span><span>Apply To Work for Care Strategies</span></button>
+                    <router-link to="/CareForm"><button class="button is-primary"><span class="icon"><i class="mdi mdi-file-document-outline"></i></span><span>Apply To Work for Care Strategies</span></button></router-link>
 
                     </div>
                 </div>
