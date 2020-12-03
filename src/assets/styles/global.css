@@ -5,6 +5,10 @@
   opacity: 0;
 }
 
+.fix {
+  color:red;
+}
+
 .text-center {
   text-align:center;
 }

@@ -73,7 +73,8 @@
                 <div class="column">
                     <div class="content">
                         <p>
-With over 30 years of sales, marketing, government affairs and long term care experience, Jeff has an extensive understanding of the healthcare continuum and has focused on growth in organizations and operating improvements in multiple states. Jeff has focused his career on Long-Term Care and all aspects of Senior Housing. As the Chief Development Officer at The Strategies, Jeff understands growth, operation excellence,  legislative, regulatory, and reimbursement issues affecting healthcare as an industry and works with our partners to improve performance, increase census and improve the bottom line.                        </p>
+                            With over 30 years of sales, marketing, government affairs and long term care experience, Jeff has an extensive understanding of the healthcare continuum and has focused on growth in organizations and operating improvements in multiple states. Jeff has focused his career on Long-Term Care and all aspects of Senior Housing. As the Chief Development Officer at The Strategies, Jeff understands growth, operation excellence,  legislative, regulatory, and reimbursement issues affecting healthcare as an industry and works with our partners to improve performance, increase census and improve the bottom line.
+                        </p>
                     </div>
                 </div>
             </div>
