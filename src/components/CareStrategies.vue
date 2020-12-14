@@ -45,19 +45,6 @@
                     <p>
                         The Brookside Care Strategies Mission is to enrich the lives of loved ones by providing a caring, compassionate, and safe home environment.
                     </p>
-
-                    <h1>The Staffing Strategies Process</h1>
-
-                    <ol>
-                        <li>Have a patient who needs a facility that offers personal care that feels like a home.</li>
-                        <li>Discuss the patient’s special needs and situation with the facility administrator, social services director and resident doctor.</li>
-                        <li>Make the move-in process seamless so the patient feels like he/she has come home.</li>
-                        <li>Provide stimulating activities to engage the patient.</li>
-                        <li>Provide quality care daily for the patient.</li>
-                        <li>Provide a clean, safe environment for the patient.</li>
-                        <li>Provide physical or occupational therapy when needed.</li>
-                        <li>Make the patient feel he/she is a vital part of the facility’s daily life.</li>
-                    </ol>
                 </div>
             </div>
         </div>

@@ -14,11 +14,19 @@
                         </p>
 
                         <p>
-                            With the vision to be a leader in the industry and an easily identifiable name and logo, The Strategies strives to meet and exceed the needs of our partners by identifying and closing gaps in healthcare. The empty circle in the middle of The Strategies’ logo represents the hole our customers need help filling and the dots represent the many strategies we offer that will help fill those gaps.
+                            With the vision to be a leader in the industry and an easily identifiable name and logo, The Strategies strives to meet and exceed the needs of our partners by identifying and closing gaps in healthcare. The empty circle in the middle of The Strategies’ logo represents the hole our customers need help filling and the dots represent the many strategies we offer that will help fill those gaps. 
                         </p>
 
                         <p>
                             By encompassing all rehabilitation services under The Strategies umbrella, healthcare providers benefit from easy access to information when searching for therapy needs.  The Strategies provides full department coverage of rehabilitation therapy services, temporary therapist and nursing coverage on an as needed basis, specialized rehabilitation equipment and access to a long-term care facility.  
+                        </p>
+
+                        <p>
+                            Partnering with The Strategies will simplify a facility’s rehabilitation needs with the click of a button leaving time to focus on providing quality patient care. 
+                        </p>
+
+                        <p>
+                            Not only will partnering with The Strategies alleviate the stress of day to day rehabilitation management at your facility and make your job easier, but by following The Strategies’ proven model of healthcare reimbursement, we can guarantee your facility will be profitable.
                         </p>
                     </div>
                 </div>

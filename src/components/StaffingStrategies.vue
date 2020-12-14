@@ -13,7 +13,7 @@
                 <div class="content">
                     <h1 class="title">What is Staffing Strategies and what can we do for you?</h1>
                     <p>
-                        In response to the industry high demand for qualified, temporary therapists and nurses, Ron Cram and Jamey Kleva opened Staffing Strategies in 2010. After managing their own supplemental staff at Rehab Strategies, they used that experience and applied it toward opening the next phase of The Strategies enterprise.                  
+                        In response to the industry's high demand for qualified, temporary therapists and nurses, Ron Cram and Jamey Kleva opened Staffing Strategies in 2010. After managing their own supplemental staff at Rehab Strategies, they used that experience and applied it toward opening the next phase of The Strategies enterprise.                  
                     </p>
 
                     <p>
@@ -36,20 +36,8 @@
                     </p>
 
                     <h1 class="fix">Contact Staffing Strategies NOW</h1>
-                    
-                    <hr>
-                    
-                    <h1>The Staffing Strategies Process</h1>
-
-                <ol>
-                    <li>Identify an unfilled shift that needs coverage.</li>
-                    <li>Call Staffing Strategies weeks, days or even hours before the shift, and let us find your facility quality coverage. <span class="fix">PHONE NUMBER TO CALL???</span></li>
-                    <li>Staffing Strategies will contact the needed replacement and he/she will go to the facility and cover the need.</li>
-                    <li>Staffing Strategies replacement coverage will follow all facility guidelines and use their electronic record system for patient charting. </li>
-                    <li>The replacement coverage will treat your facility and patients with the same quality care as if they were a permanent employee.</li>
-                    <li>Staffing Strategies will bill for services and provide the facility with a copy of each time card for shifts worked.</li>
-                    <li>Staffing Strategies will alleviate stress and give you piece of mind knowing your patients are cared for and departments are adequately staffed.</li>
-                </ol>
+                    <a href="mailto:info@staffingstrategies.net"></a>
+                    <p>(317) 412-6058</p>
                 </div>
             </div>
         </div>
@@ -153,8 +141,8 @@
                                 You can call any time there is a need and confirm a need for any length of time needed.  Lauren has therapists/nurses on call to cover needs that may arise from a morning call-in opening to a lengthy maternity or disability leave.
                             </li>
                             <li>
-                                <strong>Why should a chose Staffing Strategies over other agencies?</strong>
-                                Staffing Strategies is not your typical staffing company.  It was initially create to provide supplementary staff solely for our own facilities, but after amassing a large pool of nurses/therapists, we were able to open our available staff to other companies in need.
+                                <strong>Why should a choose Staffing Strategies over other agencies?</strong>
+                                Staffing Strategies is not your typical staffing company.  It was initially created to provide supplementary staff solely for our own facilities, but after amassing a large pool of nurses/therapists, we were able to open our available staff to other companies in need.
                             </li>
                             <li>
                                 <strong>When can I call Staffing Strategies?</strong>

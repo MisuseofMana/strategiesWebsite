@@ -47,18 +47,6 @@
                   <li>Empower and Equip Your Therapists</li>
                     <li>Enhance Patient Outcomes</li>
                 </ul>
-
-                <h1>The ITS Process</h1>
-
-                <ol>
-                    <li>Have a desire to make your patients not only participate in their rehab, but enjoy the experience.</li>
-                    <li>Call ITS and set up a demonstration of The MR Cube. <span class="fix">PHONE NUMBER TO CALL???</span></li>
-                    <li>Have The MR Cube installed in the department and have our team train the therapists.</li>
-                    <li>Have patients compete for “high score” on The MR Cube’s exercises while the therapists learn the software.</li>
-                    <li>Create objective data on patients while challenging them to increase their game scores and stamina.</li>
-                    <li>Contact ITS as needed to provide continuing education and download MR Cube yearly updates.</li>
-                    <li>Watch your patients enjoy their therapy exercises and while achieving excellent outcomes.</li>
-                </ol>
             </div>
         </div>
     </div>
@@ -151,7 +139,7 @@
                             </li>
                             <li>
                                 <strong>Why should our facility purchase a MR Cube for our therapy gym?</strong> 
-                                MR Cube takes the guess work out of evaluating a patient.  With the objective data collected straight to a computer, the patient’s baseline is collected and progress can be obtained with each use.
+                                MR Cube takes the guesswork out of evaluating a patient.  With the objective data collected straight to a computer, the patient’s baseline is collected and progress can be obtained with each use.
                             </li>
                             <li>
                                 <strong>How does the MR Cube work?</strong> 

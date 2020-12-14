@@ -163,21 +163,8 @@
             <h1 class="title">Partner with Rehab Strategies</h1>
             <div class="content">
             <p>
-                Want to learn more?  Contact Ron and Jamey at thestrategies.net, they have a unique pay structure that gives the therapist autonomy and makes them an active partner in their own productivity. 
+                Want to learn more? Email us now via info@rehabstrategies.net or call our toll free line: 1(877)60-REHAB. We have a unique pay structure that gives the therapist autonomy and makes them an active partner in their own productivity. 
             </p>
-
-             <h1>The Rehab Strategies Process</h1>
-
-                <ol>
-                    <li>Have a facility that needs either a full-time therapy department or just a boost in therapy revenue.</li>
-                    <li>Contact Rehab Strategies and set a <span class="fix">free consultation</span></li>
-                    <li>Let Rehab Strategies provide your facility a therapy department with full-time physical, occupational and speech therapists.</li>
-                    <li>Let Rehab Strategies alleviate all your day to day rehab hurdles by internalizing all details leaving the facility with more time to focus on patient care.</li>
-                    <li>Let ITS install the MR Cube, an outcome based, interactive patient activity system that objectively monitors growth, in your department.</li>
-                    <li>Let our therapists create a lively therapy gym where patients want to be a part of the action while improving their health and wellbeing.</li>
-                    <li>See your patients improve daily and enjoy life.</li>
-                    <li>Invest in the Rehab Strategies model and see your facility earn a guaranteed profit from therapy services.</li>
-                </ol>
             </div>
     </section>
 
