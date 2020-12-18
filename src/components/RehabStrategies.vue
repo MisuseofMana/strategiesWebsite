@@ -11,23 +11,33 @@
     <div class="columns is-variable is-8">
         <div class="column is-two-thirds">
             <div class="container">
-                <h1 class="title">What is Rehab Strategies?</h1>
-                <p>
-                    Rehab Strategies is a provider of Physical, Occupational and Speech Therapy in addition to in-house
-                    Wellness Direction. We proudly offer our expertise to Hospitals, Outpatient Centers, Skilled Nursing
-                    Facilities, Assisted and Independent Living Centers. Owned and operated by Therapists, Rehab
-                    Strategies builds and provides therapy teams that are highly motivated, efficient and produce cost-effective outcomes.
-                </p>
-                
-                <br>
+                <div class="content">
+                    <h1 class="title">What is Rehab Strategies and what can we do for you?</h1>
+                    <p>
+                        After working for similar rehabilitation companies, Ron Cram and Jamey Kleva launched Rehab Strategies in 2006. Because Ron and Jamey are therapists themselves with over 50 years of combined clinical experience in the rehabilitation industry, they will work hand-in-hand with your company on how best to construct the therapy department.  If management or consulting is what your facility needs, Rehab Strategies can also provide expertise in those areas.  
+                    </p>
+                    
+                    <p>
+                        Rehab Strategies will alleviate stress by internalizing decisions and solving problems for any provider housing a rehab department.  Ron and Jamey will work in conjunction with the facility to build therapy teams that are highly motivated, efficient and produce cost-effective outcomes.  Their model isn’t just for long term care facilities; it can be tailored to fit the needs of hospitals, outpatient centers, skilled nursing facilities, assisted and independent living centers.
+                    </p>
 
-                <h1 class="title">A Partnership Built Upon Trust</h1>
-                <p>
-                    When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
-                    oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
-                    We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
-                    clients receive a guaranteed profit from our Therapy Services.
-                </p>
+                    <p>
+                        Is your facility struggling with census and losing patients to home health?  Do your patients need a spark to get them on the road to recovery?
+                    </p>
+
+                    <p>
+                        Rehab Strategies can help with these troubling statistics.  We will provide your facility with a full-time physical, occupational and speech staff who will work on site daily.  The staff will engage the residents by creating a cohesive therapy department that provides exemplary patient care.  Patients become familiar with the therapists and love to be a part of the therapy family while they work to recover strength and health. Many residents enjoy the personal attention and comradery so much that they continue with their therapy services through private pay. 
+                    </p>
+
+                    <h1 class="title">A Partnership Built Upon Trust</h1>
+                    <p>
+                    One of the newest services Rehab Strategies provides is a Wellness Program for seniors focusing on health and wellbeing.  Residents can participate in Thai chi, Pilates and yoga as well as a wide variety of aerobic classes, and our certified athletic trainers specialize in Parkinson’s classes like The Climb, Rock Steady Boxing, Lee Silverman Voice Training and the Loud Program. 
+                    </p>
+
+                    <p>
+                    But, the number one reason to choose to work with Rehab Strategies is that they will guarantee all facilities a profit on rehabilitation therapy services.  
+                    </p>
+                </div>
             </div>
 
             <br>
@@ -153,10 +163,7 @@
             <h1 class="title">Partner with Rehab Strategies</h1>
             <div class="content">
             <p>
-                When you partner with Rehab Strategies you will enjoy a fully turnkey experience. We provide staff
-                oversite, recruiting and hiring processes, including management that understands all aspects of Rehab.
-                We cover all payroll taxes and benefits for our therapists. Our contract is configured to assure that our
-                clients receive a guaranteed profit from our Therapy Services.
+                Want to learn more? Email us now via info@rehabstrategies.net or call our toll free line: 1(877)60-REHAB. We have a unique pay structure that gives the therapist autonomy and makes them an active partner in their own productivity. 
             </p>
             </div>
     </section>
@@ -216,6 +223,65 @@
             </div>
             </div>
     </section>
+    </div>
+
+     <div class="box">
+        <div class="columns is-variable is-6">
+            <div class="column">
+                <div class="container">
+                    <div class="content">
+                        <h1 class="title">Rehab Strategies FAQ</h1>
+                        <ul>
+                            <li>
+                                <strong>What is Rehab Strategies?</strong>
+                                Rehab Strategies is a rehabilitation contract management and consulting company.
+                            </li>
+                            <li>
+                                <strong>What can we do for you?</strong>
+                                We will work hand-in-hand with your organization on how best to construct your therapy department.  If management or consulting is what your facility needs, Rehab Strategies can also provide expertise in those areas.  
+                            </li>
+                            <li>
+                                <strong>When should I call Rehab Strategies?</strong>
+                                If your facility is struggling with lower census and losing patients to home health or other facilities.
+                            </li>
+                            <li>
+                                <strong>Why should we use Rehab Strategies contract therapy versus an in-house program?</strong>
+                                Rehab Strategies will guarantee your facility a profit.  We will free up your internal resources by assuming the recruiting, hiring, training, scheduling and oversite of your therapy team.  
+                            </li>
+                            <li>
+                                <strong>What specific services will Rehab Strategies provide?</strong>
+                                Physical, Occupational and Speech therapists with specialties in lymphedema, dementia, and balance disorders.  We also provide reporting of clinical outcomes, financial performance and discharge statistics.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="container">
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <strong>Will Rehab Strategies address our facility’s unique needs?</strong>
+                                Rehab Strategies is a boutique provider that will tailor your program for your unique environment.  Our model isn’t just for long term care facilities; it can be tailored to fit the needs of hospitals, outpatient centers, skilled nursing facilities, assisted and independent living centers. 
+                            </li>
+                            <li>
+                                <strong>How can Rehab Strategies engage our long-term residents?</strong>
+                                Our therapists will utilize a combination of high tech equipment, wellness programming, and restorative programming to achieve the highest level of functioning for your residents. Patients become familiar with the consistency of our therapists and love to be a part of the therapy family while they work to recover strength and health. 
+                            </li>
+                            <li>
+                                <strong>How will our residents benefit from your Wellness Program?</strong>
+                                Residents can participate in one-on-one personal training as well as group classes.  Our program includes Thai Chi, Pilates and yoga as well as a wide variety of aerobic classes, and our certified athletic trainers specialize in Parkinson’s classes like The Climb, Rock Steady Boxing, Lee Silverman Voice Training and the Loud Program. 
+                            </li>
+                            <li>
+                                <strong>How can we contact Rehab Strategies for more information?</strong>
+                                Call 877-60-Rehab or info@rehabstrategies.net
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <footer class="footer">

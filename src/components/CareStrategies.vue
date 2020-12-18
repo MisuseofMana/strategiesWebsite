@@ -12,22 +12,40 @@
         <div class="column">
             <div class="container">
                 <div class="content">
-                    <h1 class="title">Who Are We?</h1>
+                    <h1 class="title">Brookside Care Strategies - A Familiar Place to Call Home</h1>
                     <p>
-                        Brookside Care Strategies is a 42-bed behavioral health nursing facility located in Muncie, Indiana. Owned and operated by <strong>Clinicians</strong>, Brookside Care Strategies’ number one priorities are the health, safety, and happiness of your loved ones. Proficient in Individualized Care Planning, Behavior Management, and an interdisciplinary team approach to care, our staff members are well prepared to welcome your loved one home.
+                        Do you need a facility for a loved one in Muncie, Indiana?  Care Strategies can help
                     </p>
                     
-                    <p>At Brookside Care Strategies, we believe interaction and engagement are paramount to the health and well-being of our residents. Residents are offered a multitude of opportunities to engage with our community. Activities, including morning coffee and social time, bingo, bowling, cornhole, and a litany of others, are offered to enhance the home-like feel of our community.    </p>
+                    <p>
+                        In 2018, the entrepreneurial pair of Ron Cram and Jamey Kleva achieved their longstanding dream of owning and operating a facility that provides long-term residential care to individuals with intellectual disabilities, traumatic brain injuries and physical disabilities. They had the opportunity to enter the marketplace with the advent of Care Strategies by purchasing a small facility in Muncie, Indiana: Brookside Care Strategies. With that purchase, Ron and Jamey were able to incorporate all their services, completing their vision by providing therapy, staffing and the latest technology in one location.
+                    </p>
+
+                    <p>
+                        Patient satisfaction and quality health care is at the forefront of any Strategies undertaking and this has never been more evident than at Brookside Care.  After owning this 42 bed building in Muncie for just under two years, the owners of Care Strategies have worked diligently to remodel the physical facility and convert all patient charting to electronic records.  Brookside Care Strategies lives by their mission “to enrich the lives of loved ones by providing a caring, compassionate and safe home environment” for our residents.
+                    </p>
+
+                    <p>
+                        Our therapy team has worked tirelessly to provide rehabilitation at Brookside, and this added service enhances the quality of life for our residents.  
+                    </p>
+
+                    <p>
+                        Brookside Care Strategies in Muncie prides itself in providing their residents with a place they can call home. 
+                    </p>
+
+                    
                 </div>
             </div>
         </div>
  
         <div class="column">
             <div class="container">
-                <h1 class="title">Our Mission</h1>
-                <p>
-                    The Brookside Care Strategies Mission is to enrich the lives of loved ones by providing a caring, compassionate, and safe home environment.
-                </p>
+                <div class="content">
+                    <h1 class="title">Our Mission</h1>
+                    <p>
+                        The Brookside Care Strategies Mission is to enrich the lives of loved ones by providing a caring, compassionate, and safe home environment.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

@@ -10,16 +10,25 @@
         <div class="column">
             <div class="container">
                 <div class="content">
-                    <h1 class="title">Who Are We?</h1>
+                    <h1 class="title">Innovative Treatment Strategies</h1>
                     <p>
-                    Innovative Treatment Strategies (ITS) is a leading provider of cutting edge, state-of-the-art rehabilitation products in the sub-acute and long-term care provider areas. ITS’s one of a kind leasing program combines innovative medical technology products with evidence-based clinical protocols and advanced therapist training.
-                    </p>
-                    <p>
-                        Our packaged solutions assist in compliance with new legislation, generate never before seen revenues and provide an unparalleled experience for the patients. Our programs help skilled nursing facilities, home health agencies, outpatient clinics and other rehabilitation providers raise standards of care, improve treatment outcomes and enhance quality-of-life for aging adults and others in the community.
+                        Is your therapy gym stagnant? Are your therapists using the same antiquated techniques with patients? If so, ITS can help.
                     </p>
 
                     <p>
-                        ITS has partnered with the very best manufactures not only in the U.S but Europe, China and Japan as well. We are helping providers throughout the U.S. create an environment in their facility and an experience for their patients that provides a clear competitive edge. Our cusomters benefit directly from our products and services via assisted marketing, increased revenues and most importantly an increase in patient treatments.                 
+                        With technology developing at a lightning pace, Ron Cram and Jamey Kleva quickly identified a need for advanced equipment to optimize the performance and testing of patients receiving therapy services. With that idea in mind, Innovative Treatment Strategies (ITS) was born in 2013. ITS brings the latest technology to our clients at a reasonable cost and with therapists that are knowledgeable in both the use and efficacy of the equipment. This includes their exclusive product, The MR Cube.
+                    </p>
+
+                    <p>
+                        The MR Cube is a cutting edge diagnostic tool that can eliminate monotony while at the same time collect objective data on a patient’s progress.                 
+                    </p>
+
+                    <p>
+                        The MR Cube can turn a tedious therapy session into a competitive experience where the patient is engaged in the visual game component.  Packed with the latest technology, The MR Cube is a small, portable dynamo that can read the data collected from the patient and download it to a computer. The data provides the therapist with objective results instantly while the patient enjoys his/her therapy session. With the exercises creatively disguised as a video game, the patient’s competitive nature is sparked and each therapy session becomes a challenge to increase his/her area of weakness by trying to beat the previous score. 
+                    </p>
+
+                    <p>
+                        Patients love it. Therapists love it. The MR Cube adds a whole new level to the therapy gym. Let ITS bring the MR Cube to your facility and show you what it can do. Contact ITS today at <a href="mailto:info@innovativetreatment.net">Info@innovativetreatment.net</a> for a demonstration. 
                     </p>
                 </div>
             </div>
@@ -109,6 +118,76 @@
         </div>
     </div>
       </div>
+
+      <div class="box">
+        <div class="columns is-variable is-6">
+            <div class="column">
+                <div class="container">
+                    <div class="content">
+                        <h1 class="title">Innovative Treatment Strategies FAQ</h1>
+                        <ul>
+                            <li>
+                                <strong>What is ITS?</strong> ITS stands for Innovative Treatment Supplies. ITS can provide your therapy department with needed equipment to make treating patients easier.
+                            </li>
+                            <li>
+                                <strong>What equipment can ITS provide?</strong> 
+                                ITS can order any therapy equipment a department would need, but the MR Cube is their top seller. ITS is the exclusive distributor for the MR Cube.
+                            </li>
+                            <li>
+                                <strong>What is the MR Cube?  </strong> 
+                                It is a portable, functional training and testing device that therapists can use to not only eliminate monotony of a therapy session, but also collect objective data on a patient’s progress.
+                            </li>
+                            <li>
+                                <strong>Why should our facility purchase a MR Cube for our therapy gym?</strong> 
+                                MR Cube takes the guesswork out of evaluating a patient.  With the objective data collected straight to a computer, the patient’s baseline is collected and progress can be obtained with each use.
+                            </li>
+                            <li>
+                                <strong>How does the MR Cube work?</strong> 
+                                The therapist connects the MR Cube to the patient via a tether and has the patient perform “games” on a computer screen. While the patient is engaged in a fun therapy session, the portable dynamo reads the data collected from the patient and downloads it to a computer.  
+                            </li>
+                            <li>
+                                <strong>How is the MR Cube better than the old tried and true methods used in the average therapy session?</strong> 
+                                The data collected from the MR Cube provides the therapist with objective results instantly while the patient enjoys his/her therapy session.  With the exercises creatively disguised as a video game, the patient’s competitive nature is sparked and each therapy session becomes a challenge to increase his/her area of weakness by trying to beat the previous score. 
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="container">
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <strong>How can our therapy department see the MR Cube in action?</strong>
+                                Contact Jamey Kleva at <a href="mailto:jkleva@innovativetreatment.net">jkleva@innovativetreatment.net</a> and she will schedule a demonstration. Our therapists will set an onsite visit where your therapists and patients can learn about the MR Cube and receive hands on training. 
+                            </li>
+                            <li>
+                                <strong>How will we know if more than one MR Cube is needed for our department?</strong> 
+                                Once your patients experience their exercises on the MR Cube, they will be fighting over MR Cube time.
+                            </li>
+                            <li>
+                                <strong>Can the MR Cube be rented to our facility?</strong> 
+                                Yes, contact <a href="mailto:jkleva@innovativetreatment.net">Jamey Kleva</a> for details on a rental agreement.
+                            </li>
+                            <li>
+                                <strong>Is the software updated and are the updates included in the price?</strong> 
+                                Yes, software upgrades are included as they become available for two years.  After two years, new updates will be provided for a nominal fee.
+                            </li>
+                            <li>
+                                <strong>With staff turnover, how can we avoid a new staff leaving the MR Cube in the corner and not using it to its full potential?  </strong> 
+                                Our therapists can set up a retraining session to make sure the MR Cube is being used to its full potential.  
+                            </li>
+                            <li>
+                                <strong>Will the MR Cube pay for itself?  </strong> 
+                                Yes, by adding additional HCPCS treatment codes, Medicare will reimburse for the MR Cube treatments.    
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <footer class="footer">
     <div class="content has-text-centered">
