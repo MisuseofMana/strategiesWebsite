@@ -19,7 +19,7 @@
         <router-link class="navbar-item" to="/" exact><span class="icon"><i class="mdi mdi-newspaper-variant-outline"></i></span> The Strategies</router-link>
         
         <div class="navbar-item has-dropdown is-hoverable">
-          <router-link class="navbar-link " to="/RehabStrategies"><span class="icon"><i class="mdi mdi-handshake-outline"></i></span> Rehab Strategies</router-link>
+          <router-link class="navbar-link" to="/RehabStrategies"><span class="icon"><i class="mdi mdi-handshake-outline"></i></span> Rehab Strategies</router-link>
           <div class="navbar-dropdown">
             <router-link class="navbar-item" to="/RehabForm"><span class="icon"><i class="mdi mdi-handshake-outline"></i></span> Work for Rehab Strategies</router-link>
           </div>
@@ -64,4 +64,6 @@
   height:50px;
   max-height:none;
 }
+
+
 </style>

@@ -27,6 +27,11 @@
   align-items:center;
 }
 
+.menu-list a {
+  padding:8px !important;
+  margin:5px !important;
+}
+
 a.navbar-item.is-active {
   color:#fff !important;
 }
